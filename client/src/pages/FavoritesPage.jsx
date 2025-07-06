@@ -74,7 +74,7 @@ export const FavoritesPage = () => {
           </p>
         )}
 
-        <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-[40px] max-w-[1260px] mx-auto px-[30px]">
+        <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-[40px] max-w-[1260px] mx-auto px-[30px] md:px-0">
           {favoriteProducts.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}

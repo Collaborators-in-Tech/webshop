@@ -180,7 +180,7 @@ export const AboutUsPage = () => {
         mb-[16px]"
             >
               Frontend developer with a curious mindset and an eye for detail.
-              My backround in UX design helps me build accessible and
+              My background in UX design helps me build accessible and
               user-friendly experiences. I enjoy exploring new ideas, learning,
               and collaborating.
             </p>

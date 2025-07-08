@@ -13,7 +13,7 @@ export const HeroSection = () => {
       className="
     relative 
     h-[600px] 
-    w-screen 
+    w-full 
     overflow-hidden"
     >
       <img

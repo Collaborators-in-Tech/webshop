@@ -27,7 +27,7 @@ export const Footer = () => {
         <ul className="flex gap-4 justify-center">
           <li className="pt-[2px]">
             <a
-              href="https://www.facebook.com/yourprofile"
+              href="https://www.facebook.com"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Follow us on Facebook"
@@ -37,7 +37,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://www.instagram.com/yourprofile"
+              href="https://www.instagram.com"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Follow us on Instagram"
@@ -48,7 +48,7 @@ export const Footer = () => {
         </ul>
       </div>
       <div className="col-span-full sm:mt-6 text-xl logo-font">
-        &copy; 2024 LÖV. All rights reserved.
+        &copy; 2024 LÖV. All rights reserved. Product images from Unsplash.
       </div>
     </div>
   )
